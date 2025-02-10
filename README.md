@@ -1,3 +1,5 @@
+
+
 # 🌐 Portfolio Website (Practice Project)  
 
 This is a **basic portfolio website** created as a practice project to improve my web development skills.  
@@ -22,7 +24,5 @@ This is a **basic portfolio website** created as a practice project to improve m
 This project was built just for **learning and practice**. I might improve and expand it in the future!  
 
 ## 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tanzeela-fatima-47861b2b7/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/Fatima-progmmer)  
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanzeela-fatima-47861b2b7/)  
